@@ -1,0 +1,68 @@
+.container{
+    border: 1px solid gray;
+}
+
+#royal-purple{
+    background-color:#6D2077 ;
+    color: white;
+    
+}
+
+#old-gold{
+    background-color: #B7A57A;
+    color: white;
+}
+
+#gray{
+    background-color: #9F9F9F;
+}
+
+#grand-green{
+    background-color: #0C6634;
+}
+.color-container {
+    width: 100%;
+  }
+.color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+}
+
+.regular {
+    font-style: normal;
+  }
+  
+.italic {
+    font-style: italic;
+}
+  
+.bold {
+    font-weight: 700;
+}
+
+.roboto{
+    font-family: "Roboto", sans-serif;
+}
+
+.open-sans{
+    font-family: "Open Sans", sans-serif;
+}
+
+.montserrat{
+    font-family: "Montserrat", sans-serif;
+}
+
+
